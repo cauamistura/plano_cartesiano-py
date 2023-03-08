@@ -1,1 +1,2 @@
-# plano_cartesiano-py
+# Jogo plano Cartesiano
+Trabalho de matemática
