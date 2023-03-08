@@ -1,0 +1,15 @@
+1. Instale o Python em seu computador: Para instalar o Python, você pode ir para o site oficial do Python (https://www.python.org/downloads/) e baixar a versão mais recente do Python. Siga as instruções de instalação para concluir a instalação do Python em seu computador.
+
+2.Instale o pacote Matplotlib: Para instalar o pacote Matplotlib, abra o terminal do seu sistema operacional e digite o seguinte comando:
+
+pip install matplotlib
+
+Este comando instalará o pacote Matplotlib no seu sistema.
+
+3.Salve o arquivo com a extensão ".py": Salve o código em um arquivo com a extensão ".py". Por exemplo, você pode salvar o código em um arquivo chamado "meuprograma.py".
+
+4.Execute o código: Para executar o código, abra o terminal do seu sistema operacional, navegue até o diretório onde o arquivo "meuprograma.py" está salvo e digite o seguinte comando:
+
+python meuprograma.py
+
+O comando acima executará o arquivo "meuprograma.py" e exibirá o gráfico do plano cartesiano em uma janela de gráfico.
